@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  background-color: hsl(36, 100%, 99%);
+  font-family: "Inter", sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 70px 150px;
+}
+
+.nav__list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 40px;
+  list-style-type: none;
+}
+
+.nav__item {
+  color: hsl(236, 13%, 42%);
+}
+
+.web-3__image {
+  width: 50%;
+}/*# sourceMappingURL=main.css.map */
